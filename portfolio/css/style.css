@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+}
+
+ul{
+    width: 9%;
+}
+
+ul > li  {
+    height: 60%;
+    width: 100%;    
+    border: 1px solid blue;
+}
+
+a{
+    display: block;
+    text-align: center;
+    background-color: red;    
+}
